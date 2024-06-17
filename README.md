@@ -1,0 +1,1 @@
+This repository contains the slides and resources for my [ICAME45](https://icame45.webs.uvigo.es/) presentation entiitled *Automated, Corpus- and Usage-Based Semantic Classification of Word Class using Word Embeddings* (co-authored with Chang-Hao Luo). 
